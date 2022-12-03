@@ -2,9 +2,9 @@
 // Created by Andrea Chiappini on 03/12/22.
 //
 
-#ifndef UNTITLED8_LIB_H
-#define UNTITLED8_LIB_H
+#ifndef ESERCITAZIONE6_LIB_H
+#define ESERCITAZIONE6_LIB_H
 
 int primo (int, int);
 
-#endif //UNTITLED8_LIB_H
+#endif //ESERCITAZIONE6_LIB_H
