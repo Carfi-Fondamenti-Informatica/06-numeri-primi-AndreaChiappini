@@ -8,9 +8,9 @@ int main () {
     int b=(a-1);
 
     if (primo (a, b) == true) {
-        cout << "numero primo";
+        cout << "numero primo" << endl;
     } else if (primo (a, b) == false) {
-        cout << "numero non primo";
+        cout << "numero non primo" << endl;
     }
     return 0;
 }
